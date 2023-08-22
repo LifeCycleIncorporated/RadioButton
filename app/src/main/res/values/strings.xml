@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Radio Button</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    //<string name="button_text">Next</string>
+
+
 </resources>

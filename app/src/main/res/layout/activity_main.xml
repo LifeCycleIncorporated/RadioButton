@@ -18,20 +18,21 @@
             android:id="@+id/maleId"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Male"
+            android:text="@string/male_text"
             android:textSize="25sp"/>
 
         <RadioButton
             android:id="@+id/femaleId"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Female"
+            android:text="@string/male_text"
             android:textSize="25sp"/>
 
 
     </RadioGroup>
 
         <Button
+            android:text="@string/button_text"
             android:id="@+id/buttonId"
             android:layout_width="wrap_content"
             android:layout_marginTop="20sp"
